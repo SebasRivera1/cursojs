@@ -2,7 +2,7 @@
 // 1. Entrada del programa Input (I)
 //----------------------------------
 var items = [2, 3, 5, 7, 11, 13, 17]; // index es el cursor
-console.log("en la posición 3 tenemos: " + items[1])
+console.log("en la posición 3 tenemos: " + items[2])
 //----------------------------------
 // 2. Definición función de búsqueda
 //----------------------------------
